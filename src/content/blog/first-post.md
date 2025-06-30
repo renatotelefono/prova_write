@@ -1,5 +1,5 @@
 ---
-title: 'First post'
+title: 'Primo post da fare'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: 'Jul 08 2025'
 heroImage: '../../assets/unicorn.jpg'
